@@ -12,7 +12,7 @@
     <string name="pcview_menu_app_list">게임 리스트 보이기</string>
     <string name="pcview_menu_pair_pc">PC와 페어링</string>
     <string name="pcview_menu_unpair_pc">페어링 해제</string>
-    <string name="pcview_menu_send_wol">Wake-On-LAN request 보내기</string>
+    <string name="pcview_menu_send_wol">Wake-On-LAN 요청 보내기</string>
     <string name="pcview_menu_delete_pc">PC 삭제</string>
 
     <!-- Pair messages -->
@@ -30,7 +30,7 @@
     <string name="wol_no_mac">Geforce Experience가 MAC 주소를 보내지 않아 PC를 깨울 수 없습니다.</string>
     <string name="wol_waking_pc">PC를 깨우는 중…</string>
     <string name="wol_waking_msg">PC를 깨우는 데에 약간의 시간이 걸립니다.
-        PC가 깨워지지 않으면, Wake-On-Lan이 설정되어있는지 확인하세요.
+        PC가 깨워지지 않으면, Wake-On-LAN이 설정되어있는지 확인하세요.
     </string>
     <string name="wol_fail">Wake-On-LAN 패킷을 보내는 데에 실패했습니다</string>
 
@@ -49,7 +49,7 @@
     </string>
 
     <!-- Start application messages -->
-    <string name="conn_establishing_title">연결 수립중</string>
+    <string name="conn_establishing_title">연결 생성중</string>
     <string name="conn_establishing_msg">연결 시작</string>
     <string name="conn_metered">경고: 데이터 요금이 부과될 수 있습니다.</string>
     <string name="conn_client_latency">평균 프레임 디코딩 지연:</string>
@@ -137,6 +137,6 @@
 
     <string name="category_advanced_settings">고급 설정</string>
     <string name="title_video_format">H.265 설정 변경</string>
-    <string name="summary_video_format">H.265는 비디오 대역폭 요구사항을 낮춰주지만 최신 장치가 필요합니다.</string>
+    <string name="summary_video_format">H.265는 비디오 대역폭 요구량을 낮춰주지만 최신 장치가 필요합니다.</string>
 
 </resources>
